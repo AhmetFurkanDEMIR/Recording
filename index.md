@@ -14,3 +14,21 @@ Recorder allows you to record your desktop screen at 30 or 60 FPS. If you wish, 
 * Combining Screen and Camera recording.
 * Possibility to delay the start of recording up to 180 seconds.
 * Instantly save the recording wherever you want.
+
+
+## Technologies I use
+
+This application was written in Python 3.7.
+
+```python
+from PyQt5 import QtCore, QtGui, QtWidgets
+from PyQt5.QtWidgets import QFileDialog
+from time import sleep as sl
+import numpy as np
+import threading
+import skvideo.io
+import datetime
+import mss
+import sys
+import cv2
+```
