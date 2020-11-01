@@ -32,6 +32,7 @@ import mss
 import sys
 import cv2
 ```
+
 | Python module |    Purpose of usage                              |
 |---------------|--------------------------------------------------|
 | PyQt5         | GUI programming                                  |
