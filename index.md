@@ -6,3 +6,11 @@
 ## What is a Recorder?
 
 Recorder allows you to record your desktop screen at 30 or 60 FPS. If you wish, you can open your camera and include it in the video with a single click. Currently, video recording is performed in .mp4 format only.
+
+
+## Recorder's features
+
+* Screen recording at 30 or 60 FPS.
+* Combining Screen and Camera recording.
+* Possibility to delay the start of recording up to 180 seconds.
+* Instantly save the recording wherever you want.
