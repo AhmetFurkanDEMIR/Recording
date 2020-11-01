@@ -66,22 +66,22 @@ import cv2
 
 ## In app images
 
+**Camera and video recording are turned off.**
+
 ![not_viode_not_camera](https://user-images.githubusercontent.com/54184905/97799430-520c7e80-1c3f-11eb-87c2-c0472f364ee7.png)
 
-**(Camera and video recording are turned off.)**
+**Record off, camera on.**
 
 ![not_video_yes_camera](https://user-images.githubusercontent.com/54184905/97799428-5173e800-1c3f-11eb-9220-6e1a0a8b3fb0.png)
 
-**(Record off, camera on.)**
+**Settings.**
 
 ![Settings](https://user-images.githubusercontent.com/54184905/97799425-5042bb00-1c3f-11eb-8e5a-ca0469caa1b1.png)
 
-**(Settings.)**
+**Setting the start time of recording**
 
 ![Screenshot_2020-11-01_12-38-16](https://user-images.githubusercontent.com/54184905/97799427-50db5180-1c3f-11eb-89d3-e239e943f6ab.png)
 
-**(Setting the start time of recording)**
+**A frame from the test recording with the camera on.**
 
 ![untitled-f002803](https://user-images.githubusercontent.com/54184905/97799518-cc3d0300-1c3f-11eb-93ab-f2dd4fd4e833.png)
-
-**(A frame from the test recording with the camera on.)**
