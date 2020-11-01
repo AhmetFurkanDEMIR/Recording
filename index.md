@@ -113,5 +113,5 @@ import cv2
 
 ## Open source codes of the application
 
-[GitHub Link : https://github.com/AhmetFurkanDEMIR/Recorder](https://github.com/AhmetFurkanDEMIR/Recorder)
+[GitHub Link : https://github.com/AhmetFurkanDEMIR/Recording](https://github.com/AhmetFurkanDEMIR/Recording)
 
