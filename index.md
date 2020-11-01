@@ -99,5 +99,5 @@ import cv2
 
 ## Open source codes of the application
 
-![https://user-images.githubusercontent.com/54184905/97800053-0b208800-1c43-11eb-92a6-dc8b319a52b8.png"](https://github.com/AhmetFurkanDEMIR/Recorder) />
+![https://user-images.githubusercontent.com/54184905/97800053-0b208800-1c43-11eb-92a6-dc8b319a52b8.png"](https://github.com/AhmetFurkanDEMIR/Recorder)
 
