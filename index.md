@@ -29,6 +29,8 @@ Recorder allows you to record your desktop screen at 30 or 60 FPS. If you wish, 
 
 * Ability to record screens in different formats (.avi3, .mpeg, etc.).
 
+* Providing less CPU and RAM usage by distributing across different threads instead of doing all the operations on the same thread.
+
 
 ## Supported systems
 
