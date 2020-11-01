@@ -32,3 +32,14 @@ import mss
 import sys
 import cv2
 ```
+| Python module |    Purpose of usage                              |
+|---------------|--------------------------------------------------|
+| PyQt5         | GUI programming                                  |
+| time          | Time operations                                  |
+| numpy         | Tensors, combining images                        |
+| threading     | To be able to do all operations at the same time |
+| skvideo       | Saving the created video                         |
+| datetime      | Date transactions                                |
+| mss           | Desktop screen recording                         |
+| sys           | System arguments                                 |
+| cv2           | Camera record                                    |
