@@ -5,7 +5,7 @@
 
 ## What is a Recording?
 
-Recorder allows you to record your desktop screen at 30 or 60 FPS. If you wish, you can open your camera and include it in the video with a single click. Currently, video recording is performed in .mp4 format only.
+Recording allows you to record your desktop screen at 30 or 60 FPS. If you wish, you can open your camera and include it in the video with a single click. Currently, video recording is performed in .mp4 format only.
 
 
 ## Recorder's features
