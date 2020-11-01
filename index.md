@@ -106,6 +106,11 @@ import cv2
 ![untitled-f002803](https://user-images.githubusercontent.com/54184905/97799518-cc3d0300-1c3f-11eb-93ab-f2dd4fd4e833.png)
 
 
+## Short promotional video
+
+[**Link**](https://www.linkedin.com/posts/1dfurkan_ekrankaydedici-ekran-python-activity-6728700078866874368-Nypk)
+
+
 ## Open source codes of the application
 
 [GitHub Link : https://github.com/AhmetFurkanDEMIR/Recorder](https://github.com/AhmetFurkanDEMIR/Recorder)
