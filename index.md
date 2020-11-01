@@ -32,6 +32,10 @@ Recorder allows you to record your desktop screen at 30 or 60 FPS. If you wish, 
 
 ## Technologies we use
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54184905/97799114-fccf6d80-1c3c-11eb-92bf-358971809f8d.png" />
+</p>
+
 This application was written in Python 3.7.
 
 ```python
