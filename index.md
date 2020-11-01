@@ -99,7 +99,7 @@ import cv2
 
 ## Open source codes of the application
 
-[<p align="center">
-  <img src="https://user-images.githubusercontent.com/54184905/97800053-0b208800-1c43-11eb-92a6-dc8b319a52b8.png" />
-</p>](https://github.com/AhmetFurkanDEMIR/Recorder)
+<p align="center">
+  [<img src="https://user-images.githubusercontent.com/54184905/97800053-0b208800-1c43-11eb-92a6-dc8b319a52b8.png" />](https://github.com/AhmetFurkanDEMIR/Recorder)
+</p>
 
