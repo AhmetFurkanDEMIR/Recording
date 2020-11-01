@@ -36,7 +36,17 @@ Recorder allows you to record your desktop screen at 30 or 60 FPS. If you wish, 
   <img src="https://user-images.githubusercontent.com/54184905/97799114-fccf6d80-1c3c-11eb-92bf-358971809f8d.png" />
 </p>
 
-This application was written in Python 3.7.
+This application was written in Python 3.7. In order for the application to run, you must have Python and the necessary Python modules installed on your device. 
+
+Python downloads : https://www.python.org/downloads/
+
+In order to install the necessary Python modules, run the following code while in the same directory as the file named requirements.txt.
+
+```linux
+pip3 install -r requirements.txt
+```
+
+**Python modules and their purposes.**
 
 ```python
 from PyQt5 import QtCore, QtGui, QtWidgets
