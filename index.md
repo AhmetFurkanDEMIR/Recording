@@ -30,6 +30,13 @@ Recorder allows you to record your desktop screen at 30 or 60 FPS. If you wish, 
 * Ability to record screens in different formats (.avi3, .mpeg, etc.).
 
 
+## Supported systems
+
+* A linux operating system from the Debian distribution.
+
+* Screen with a resolution of 1366 X 768 (15.6 inch).
+
+
 ## Technologies we use
 
 <p align="center">
