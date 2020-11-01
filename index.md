@@ -10,13 +10,27 @@ Recorder allows you to record your desktop screen at 30 or 60 FPS. If you wish, 
 
 ## Recorder's features
 
-* Screen recording at 30 or 60 FPS.
+* Screen recording at 30 or 60 FPS (.mp4).
+
 * Combining Screen and Camera recording.
+
 * Possibility to delay the start of recording up to 180 seconds.
+
 * Instantly save the recording wherever you want.
 
 
-## Technologies I use
+## Shortcomings, Features planned to be added later
+
+* Adding the sound of the computer and microphone to the screen recording.
+
+* Display of the mouse cursor in the video.
+
+* Adding other video codecs.
+
+* Ability to record screens in different formats (.avi3, .mpeg, etc.).
+
+
+## Technologies we use
 
 This application was written in Python 3.7.
 
